@@ -1,4 +1,4 @@
-### 👋 Hello there, my name is Lyubomir Parvanov.
+### 👋 Hello there, my name is Lyubomir Parvanov. I am Python developer from Bulgaria but currently live in UK.
 
 <!--
 **lyuboparvanov/lyuboparvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
