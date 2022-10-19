@@ -6,7 +6,8 @@
   
 - 🌱 I am originally from Bulgaria but currently live in UK.
 
-- 💬 Any questions? - Do not hesitate to contact me at any time on one of the following platforms.
+- 💬 Any questions? - Do not hesitate to contact me at on one of the following platforms.
+
 - 📫 How to reach me:
 <!--
 **lyuboparvanov/lyuboparvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
