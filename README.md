@@ -1,9 +1,15 @@
-### 👋 Hello there, my name is Lyubomir Parvanov. I am Python developer from Bulgaria but currently live in UK.
+### 👋 Hello there, my name is Lyubomir Parvanov.
 
+
+### About me:
+- 🔭 I am a Python software engineer. My goals are to keep learning new things and upgrade my knowledge all the time.
+  
+- 🌱 I am originally from Bulgaria but currently live in UK.
+
+- 💬 Any questions? - Do not hesitate to contact me at any time on one of the following platforms.
+- 📫 How to reach me:
 <!--
 **lyuboparvanov/lyuboparvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
