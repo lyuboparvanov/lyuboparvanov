@@ -2,7 +2,7 @@
 
 
 ### About me:
-- 🔭 I am a Python software engineer. My goals are to keep learning new things and upgrade my knowledge all the time.
+- 🔭 I am a current student who study Programming with Python. My goals are to keep learning new things and upgrade my knowledge all the time.
   
 - 🌱 I am originally from Bulgaria but currently live in UK.
 
